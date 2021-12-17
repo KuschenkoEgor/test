@@ -1,0 +1,2 @@
+package TestProjectForGit
+clr
