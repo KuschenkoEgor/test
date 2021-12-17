@@ -1,2 +1,7 @@
 package TestProjectForGit
-clr
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, Git. My Name is ....")
+}
